@@ -1,0 +1,14 @@
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\bin\Debug\WinNetFreeCtInstall.exe.config
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\bin\Debug\WinNetFreeCtInstall.exe
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\bin\Debug\WinNetFreeCtInstall.pdb
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.csprojResolveAssemblyReference.cache
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\MainWindow.g.cs
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\App.g.cs
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall_MarkupCompile.cache
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall_MarkupCompile.lref
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\MainWindow.baml
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.g.resources
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.Properties.Resources.resources
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.csproj.GenerateResource.Cache
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.exe
+d:\users\shmuel\documents\visual studio 14\Projects\WinNetFreeCtInstall\WinNetFreeCtInstall\obj\Debug\WinNetFreeCtInstall.pdb
